@@ -3,9 +3,10 @@ Algoritma final projesi
 
 -------------------------------------------------------------
 
-Muhammed Ali Bulut
-Bilişim sistemleri teknolojileri a grubu
-Algoritma ve progralama final projesi
+- Muhammed Ali Bulut
+- 241903018
+- Bilişim sistemleri teknolojileri a grubu
+- Algoritma ve progralama final projesi
 
 ---------------------------------------------------------------
 
