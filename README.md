@@ -10,10 +10,10 @@ Algoritma final projesi
 
 ---------------------------------------------------------------
 
-Projenin amacı:
+- Projenin amacı: Halı saha rezervasyon sistemini daha modern ve dinamik hale getirdim
 
 
-Projenin içeriği:
+- Projenin içeriği: İçerik olarak if, switch case, exthends gibi veri yapılarını kullandım
 
 
 
