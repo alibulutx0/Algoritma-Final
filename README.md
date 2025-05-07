@@ -15,6 +15,4 @@ Algoritma final projesi
 
 - Projenin içeriği: İçerik olarak if, switch case, exthends gibi veri yapılarını kullandım
 
-
-
-Projede kullandığım teknolojiler:  Java (Eclipse)
+- Projede kullandığım teknolojiler:  Java (Eclipse)
